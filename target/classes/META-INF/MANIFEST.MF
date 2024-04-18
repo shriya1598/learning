@@ -1,0 +1,70 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: spring-boot-starter-actuator-2.2.4.RELEASE.jar spring-boot-s
+ tarter-2.2.4.RELEASE.jar spring-boot-2.2.4.RELEASE.jar spring-boot-auto
+ configure-2.2.4.RELEASE.jar spring-boot-starter-logging-2.2.4.RELEASE.j
+ ar logback-classic-1.2.3.jar logback-core-1.2.3.jar log4j-to-slf4j-2.12
+ .1.jar log4j-api-2.12.1.jar jul-to-slf4j-1.7.30.jar snakeyaml-1.25.jar 
+ spring-boot-actuator-autoconfigure-2.2.4.RELEASE.jar spring-boot-actuat
+ or-2.2.4.RELEASE.jar jackson-datatype-jsr310-2.10.2.jar micrometer-core
+ -1.3.2.jar HdrHistogram-2.1.11.jar LatencyUtils-2.0.3.jar spring-boot-s
+ tarter-data-jpa-2.2.4.RELEASE.jar spring-boot-starter-aop-2.2.4.RELEASE
+ .jar spring-boot-starter-jdbc-2.2.4.RELEASE.jar spring-jdbc-5.2.3.RELEA
+ SE.jar jakarta.activation-api-1.2.1.jar jakarta.persistence-api-2.2.3.j
+ ar jakarta.transaction-api-1.3.3.jar hibernate-core-5.4.10.Final.jar jb
+ oss-logging-3.4.1.Final.jar javassist-3.24.0-GA.jar byte-buddy-1.10.6.j
+ ar antlr-2.7.7.jar jandex-2.1.1.Final.jar dom4j-2.1.1.jar hibernate-com
+ mons-annotations-5.1.0.Final.jar jaxb-runtime-2.3.2.jar txw2-2.3.2.jar 
+ istack-commons-runtime-3.0.8.jar stax-ex-1.8.1.jar FastInfoset-1.2.16.j
+ ar spring-data-jpa-2.2.4.RELEASE.jar spring-data-commons-2.2.4.RELEASE.
+ jar spring-orm-5.2.3.RELEASE.jar spring-tx-5.2.3.RELEASE.jar spring-asp
+ ects-5.2.3.RELEASE.jar spring-boot-starter-oauth2-client-2.2.4.RELEASE.
+ jar jakarta.mail-1.6.4.jar jakarta.activation-1.2.1.jar spring-security
+ -config-5.2.1.RELEASE.jar spring-security-core-5.2.1.RELEASE.jar spring
+ -expression-5.2.3.RELEASE.jar spring-security-oauth2-client-5.2.1.RELEA
+ SE.jar oauth2-oidc-sdk-6.14.jar jcip-annotations-1.0-1.jar lang-tag-1.7
+ .jar spring-security-oauth2-core-5.2.1.RELEASE.jar spring-security-oaut
+ h2-jose-5.2.1.RELEASE.jar nimbus-jose-jwt-7.8.jar spring-boot-starter-o
+ auth2-resource-server-2.2.4.RELEASE.jar spring-security-oauth2-resource
+ -server-5.2.1.RELEASE.jar spring-boot-starter-security-2.2.4.RELEASE.ja
+ r spring-security-web-5.2.1.RELEASE.jar spring-boot-starter-web-2.2.4.R
+ ELEASE.jar spring-boot-starter-json-2.2.4.RELEASE.jar jackson-datatype-
+ jdk8-2.10.2.jar jackson-module-parameter-names-2.10.2.jar spring-web-5.
+ 2.3.RELEASE.jar spring-webmvc-5.2.3.RELEASE.jar spring-security-oauth2-
+ 2.1.3.RELEASE.jar spring-beans-5.2.3.RELEASE.jar spring-core-5.2.3.RELE
+ ASE.jar spring-jcl-5.2.3.RELEASE.jar spring-context-5.2.3.RELEASE.jar c
+ ommons-codec-1.13.jar jackson-mapper-asl-1.9.13.jar jackson-core-asl-1.
+ 9.13.jar jsch-0.1.55.jar ojdbc8-19.3.0.0.jar ucp-19.3.0.0.jar oraclepki
+ -19.3.0.0.jar osdt_cert-19.3.0.0.jar osdt_core-19.3.0.0.jar simplefan-1
+ 9.3.0.0.jar ons-19.3.0.0.jar lombok-1.18.10.jar json-smart-2.3.jar acce
+ ssors-smart-1.2.jar asm-5.0.4.jar jakarta.xml.bind-api-2.3.2.jar Hikari
+ CP-3.4.2.jar slf4j-api-1.7.30.jar json-20220320.jar sqlite-jdbc-3.28.0.
+ jar mysql-connector-java-8.0.19.jar bucket4j-spring-boot-starter-0.2.0.
+ jar bucket4j-spring-boot-starter-context-0.2.0.jar cache-api-1.1.1.jar 
+ bucket4j-core-4.5.0.jar bucket4j-jcache-4.5.0.jar spring-boot-starter-c
+ ache-2.2.4.RELEASE.jar spring-context-support-5.2.3.RELEASE.jar jcache-
+ 2.8.0.jar caffeine-2.8.0.jar checker-qual-2.10.0.jar error_prone_annota
+ tions-2.3.3.jar config-1.3.4.jar javax.inject-1.jar spring-boot-starter
+ -validation-2.2.4.RELEASE.jar jakarta.validation-api-2.0.2.jar tomcat-e
+ mbed-el-9.0.30.jar hibernate-validator-6.0.18.Final.jar commons-lang3-3
+ .8.jar commons-io-1.3.2.jar httpclient-4.5.10.jar httpcore-4.4.13.jar c
+ ron-utils-9.1.0.jar slf4j-simple-1.7.30.jar commons-configuration-1.10.
+ jar commons-lang-2.6.jar commons-logging-1.1.1.jar amazonyojaka-1.0.jar
+  opencsv-4.1.jar commons-text-1.1.jar commons-beanutils-1.9.3.jar commo
+ ns-collections-3.2.2.jar commons-net-3.6.jar springfox-swagger2-2.9.2.j
+ ar swagger-annotations-1.5.20.jar swagger-models-1.5.20.jar springfox-s
+ pi-2.9.2.jar springfox-core-2.9.2.jar springfox-schema-2.9.2.jar spring
+ fox-swagger-common-2.9.2.jar springfox-spring-web-2.9.2.jar guava-20.0.
+ jar classmate-1.5.1.jar spring-plugin-core-1.2.0.RELEASE.jar spring-plu
+ gin-metadata-1.2.0.RELEASE.jar mapstruct-1.2.0.Final.jar springfox-swag
+ ger-ui-2.9.2.jar jackson-databind-2.13.2.2.jar jackson-annotations-2.13
+ .2.jar jackson-core-2.13.2.jar ucp-18.3.0.0.jar ons-21.1.0.0.jar spring
+ -aop-5.2.3.RELEASE.jar aspectjrt-1.9.5.jar aspectjweaver-1.9.5.jar c3p0
+ -0.9.5.5.jar mchange-commons-java-0.2.19.jar commons-csv-1.8.jar jolt-c
+ ore-0.1.0.jar json-utils-0.1.0.jar jakarta.annotation-api-1.3.5.jar uni
+ rest-java-1.4.9.jar httpasyncclient-4.1.4.jar httpcore-nio-4.4.13.jar h
+ ttpmime-4.5.10.jar jackson-dataformat-csv-2.10.2.jar
+Implementation-Title: hedwig
+Implementation-Version: 1.1.21
+Created-By: Maven Integration for Eclipse
+
